@@ -1,0 +1,55 @@
+
+        /*configurações dark mode*/
+        body.light-mode {
+            background-color: white;
+            color: #191a21;
+        }
+
+        body.dark-mode {
+            background-color: #202124;
+            color: white;
+        }
+
+        .dark-mode .fControlDM {
+            background-color: #35363a;
+            color: white;
+        }
+
+        .dark-mode input::placeholder {
+            color: #ccc;
+            /* Cor cinza claro para o modo claro */
+        }
+
+        .dark-mode ::placeholder {
+            color: #ccc;
+            /* Cor cinza claro para o modo claro */
+        }
+
+        /*dim configurações dark mode*/
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        #btn-copiar {
+            cursor: pointer;
+        }
+
+        .form-section {
+            margin-bottom: 20px;
+        }
+
+        .icone-text {
+            display: flex;
+            align-items: center;
+        }
+
+        .icone-text p {
+            margin: 0 10px;
+        }
+
+        .fcontrol1 {
+            height: 272px;
+        }
+    
