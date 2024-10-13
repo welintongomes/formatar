@@ -6,6 +6,9 @@ const urlsToCache = [
   './bootstrap.bundle.min.js',
   './script.js',
   './icons8-estrela-doodle-96.png',
+  './icon-192x192.png',
+  './icon-512x512.png',
+  './manifest.json',
   './crypto-js.min.js'
 ];
 
